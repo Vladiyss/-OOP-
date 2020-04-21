@@ -1,0 +1,10 @@
+G:\4term\ООТПиСП\Labs\Lab_2\My_OOP_2\DrawShapes\DrawShapes\bin\Debug\DrawShapes.exe.config
+G:\4term\ООТПиСП\Labs\Lab_2\My_OOP_2\DrawShapes\DrawShapes\bin\Debug\DrawShapes.exe
+G:\4term\ООТПиСП\Labs\Lab_2\My_OOP_2\DrawShapes\DrawShapes\bin\Debug\DrawShapes.pdb
+G:\4term\ООТПиСП\Labs\Lab_2\My_OOP_2\DrawShapes\DrawShapes\obj\Debug\DrawShapes.csprojAssemblyReference.cache
+G:\4term\ООТПиСП\Labs\Lab_2\My_OOP_2\DrawShapes\DrawShapes\obj\Debug\DrawShapes.Form1.resources
+G:\4term\ООТПиСП\Labs\Lab_2\My_OOP_2\DrawShapes\DrawShapes\obj\Debug\DrawShapes.Properties.Resources.resources
+G:\4term\ООТПиСП\Labs\Lab_2\My_OOP_2\DrawShapes\DrawShapes\obj\Debug\DrawShapes.csproj.GenerateResource.cache
+G:\4term\ООТПиСП\Labs\Lab_2\My_OOP_2\DrawShapes\DrawShapes\obj\Debug\DrawShapes.csproj.CoreCompileInputs.cache
+G:\4term\ООТПиСП\Labs\Lab_2\My_OOP_2\DrawShapes\DrawShapes\obj\Debug\DrawShapes.exe
+G:\4term\ООТПиСП\Labs\Lab_2\My_OOP_2\DrawShapes\DrawShapes\obj\Debug\DrawShapes.pdb
