@@ -54,6 +54,8 @@
             this.pictureBoxPlaceToDraw.Size = new System.Drawing.Size(1077, 535);
             this.pictureBoxPlaceToDraw.TabIndex = 0;
             this.pictureBoxPlaceToDraw.TabStop = false;
+            this.pictureBoxPlaceToDraw.Click += new System.EventHandler(this.pictureBoxPlaceToDraw_Click);
+            this.pictureBoxPlaceToDraw.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBoxPlaceToDraw_Paint);
             this.pictureBoxPlaceToDraw.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pictureBoxPlaceToDraw_MouseDown);
             this.pictureBoxPlaceToDraw.MouseUp += new System.Windows.Forms.MouseEventHandler(this.pictureBoxPlaceToDraw_MouseUp);
             // 
