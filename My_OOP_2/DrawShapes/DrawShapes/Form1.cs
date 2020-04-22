@@ -17,24 +17,28 @@ namespace DrawShapes
         Color color;
         Pen pen;
         SolidBrush brush;
-        static Dictionary<int, Shape> shapesDictionary = new Dictionary<int, Shape>();
+        List<Shape> shapes = new List<Shape>();
+        delegate Shape ShapeConstructor();
+        static Dictionary<int, ShapeConstructor> shapesConstructors = new Dictionary<int, ShapeConstructor>();
         Graphics graphics;
 
         public Form1()
         {
             InitializeComponent();
+            shapesConstructors.Add(1, () => { return new Line(pen, brush, firstPoint, secondPoint); });
+            shapesConstructors.Add(2, () => { return new Circle(pen, brush, firstPoint, secondPoint); });
+            shapesConstructors.Add(3, () => { return new Ellipse(pen, brush, firstPoint, secondPoint); });
+            shapesConstructors.Add(4, () => { return new Square(pen, brush, firstPoint, secondPoint); });
+            shapesConstructors.Add(5, () => { return new Rectangle(pen, brush, firstPoint, secondPoint); });
+            shapesConstructors.Add(6, () => { return new Triangle(pen, brush, firstPoint, secondPoint); });
         }
 
-        private void AddShapesToDictionary()
+        private void AddShape()
         {
-            shapesDictionary.Add(1, new Line(new Pen(color, 5), brush, firstPoint, secondPoint));
-            shapesDictionary.Add(2, new Circle(pen, brush, firstPoint, secondPoint));
-            shapesDictionary.Add(3, new Ellipse(pen, brush, firstPoint, secondPoint));
-            shapesDictionary.Add(4, new Square(pen, brush, firstPoint, secondPoint));
-            shapesDictionary.Add(5, new Rectangle(pen, brush, firstPoint, secondPoint));
-            shapesDictionary.Add(6, new Triangle(pen, brush, firstPoint, secondPoint));
-            
+            shapes.Add(shapesConstructors[currentShapeNumber]());   
         }
+
+
 
         private void pictureBoxShapeColor_Click(object sender, EventArgs e)
         {
@@ -69,9 +73,26 @@ namespace DrawShapes
         {
             secondPoint.X = e.X;
             secondPoint.Y = e.Y;
-            AddShapesToDictionary();
-            shapesDictionary[currentShapeNumber].DrawShape(graphics);
-            shapesDictionary.Clear();
+            AddShape();
+            DrawShapes(graphics);
+        }
+
+        private void pictureBoxPlaceToDraw_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        void DrawShapes(Graphics g)
+        {
+            foreach (Shape shape in shapes)
+            {
+                shape.DrawShape(graphics);
+            }
+        }
+
+        private void pictureBoxPlaceToDraw_Paint(object sender, PaintEventArgs e)
+        {
+            
         }
 
         private void buttonLine_Click(object sender, EventArgs e)
