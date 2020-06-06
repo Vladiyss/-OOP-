@@ -1,0 +1,12 @@
+C:\Users\zak\Desktop\OOP\Overseas\bin\Debug\Overseas.dll
+C:\Users\zak\Desktop\OOP\Overseas\bin\Debug\Overseas.pdb
+C:\Users\zak\Desktop\OOP\Overseas\obj\Debug\Overseas.csproj.CoreCompileInputs.cache
+C:\Users\zak\Desktop\OOP\Overseas\obj\Debug\Overseas.dll
+C:\Users\zak\Desktop\OOP\Overseas\obj\Debug\Overseas.pdb
+C:\Users\zak\Desktop\OOP\Overseas\obj\Debug\Overseas.csprojAssemblyReference.cache
+G:\4term\ООТПиСП\Labs\OOP\OOP\Overseas\bin\Debug\Overseas.dll
+G:\4term\ООТПиСП\Labs\OOP\OOP\Overseas\bin\Debug\Overseas.pdb
+G:\4term\ООТПиСП\Labs\OOP\OOP\Overseas\obj\Debug\Overseas.csprojAssemblyReference.cache
+G:\4term\ООТПиСП\Labs\OOP\OOP\Overseas\obj\Debug\Overseas.csproj.CoreCompileInputs.cache
+G:\4term\ООТПиСП\Labs\OOP\OOP\Overseas\obj\Debug\Overseas.dll
+G:\4term\ООТПиСП\Labs\OOP\OOP\Overseas\obj\Debug\Overseas.pdb

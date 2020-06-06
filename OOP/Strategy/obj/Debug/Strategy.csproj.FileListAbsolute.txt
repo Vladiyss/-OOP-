@@ -1,0 +1,12 @@
+C:\Users\zak\Desktop\OOP\Strategy\bin\Debug\Strategy.dll
+C:\Users\zak\Desktop\OOP\Strategy\bin\Debug\Strategy.pdb
+C:\Users\zak\Desktop\OOP\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\zak\Desktop\OOP\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\zak\Desktop\OOP\Strategy\obj\Debug\Strategy.dll
+C:\Users\zak\Desktop\OOP\Strategy\obj\Debug\Strategy.pdb
+G:\4term\ООТПиСП\Labs\OOP\OOP\Strategy\bin\Debug\Strategy.dll
+G:\4term\ООТПиСП\Labs\OOP\OOP\Strategy\bin\Debug\Strategy.pdb
+G:\4term\ООТПиСП\Labs\OOP\OOP\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+G:\4term\ООТПиСП\Labs\OOP\OOP\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+G:\4term\ООТПиСП\Labs\OOP\OOP\Strategy\obj\Debug\Strategy.dll
+G:\4term\ООТПиСП\Labs\OOP\OOP\Strategy\obj\Debug\Strategy.pdb

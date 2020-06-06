@@ -1,0 +1,12 @@
+C:\Users\zak\Desktop\OOP\MyPlugins\MyPlugins\bin\Debug\MyPlugins.dll
+C:\Users\zak\Desktop\OOP\MyPlugins\MyPlugins\bin\Debug\MyPlugins.pdb
+C:\Users\zak\Desktop\OOP\MyPlugins\MyPlugins\obj\Debug\MyPlugins.csprojAssemblyReference.cache
+C:\Users\zak\Desktop\OOP\MyPlugins\MyPlugins\obj\Debug\MyPlugins.csproj.CoreCompileInputs.cache
+C:\Users\zak\Desktop\OOP\MyPlugins\MyPlugins\obj\Debug\MyPlugins.dll
+C:\Users\zak\Desktop\OOP\MyPlugins\MyPlugins\obj\Debug\MyPlugins.pdb
+G:\4term\ООТПиСП\Labs\OOP\OOP\MyPlugins\MyPlugins\bin\Debug\MyPlugins.dll
+G:\4term\ООТПиСП\Labs\OOP\OOP\MyPlugins\MyPlugins\bin\Debug\MyPlugins.pdb
+G:\4term\ООТПиСП\Labs\OOP\OOP\MyPlugins\MyPlugins\obj\Debug\MyPlugins.csprojAssemblyReference.cache
+G:\4term\ООТПиСП\Labs\OOP\OOP\MyPlugins\MyPlugins\obj\Debug\MyPlugins.csproj.CoreCompileInputs.cache
+G:\4term\ООТПиСП\Labs\OOP\OOP\MyPlugins\MyPlugins\obj\Debug\MyPlugins.dll
+G:\4term\ООТПиСП\Labs\OOP\OOP\MyPlugins\MyPlugins\obj\Debug\MyPlugins.pdb
